@@ -1,88 +1,58 @@
-# Дмитрий Шестериков
-
-🚀 **Технический управленец | Team Lead | Fullstack & Backend Developer**  
-
-📚 Лектор ЮРГПУ (НПИ) им. Платова 
-
-🌍 Удалённая работа | 🕒 Свободный график, частичная занятость
+# Dmitry Shesterikov 💼  
+**Engineering Manager | Team Lead | Fullstack & Backend Developer**  
+📚 Lecturer at Platov University | 🌍 Remote | 🕒 Flexible / Part-Time  
 
 ---
 
-## 📞 Контакты
-- 📧 [me@dmitrium.com](mailto:me@dmitrium.com)
-- 🌐 [cv.dmitrium.com](https://cv.dmitrium.com)
-- 💼 [GitHub: shesterikov](https://github.com/shesterikov)
-- 🐦 [Telegram: @ddmitriumm](https://t.me/ddmitriumm)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=shesterikov&show_icons=true&theme=radical&hide_border=true)
+
+### 🧩 Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shesterikov&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🎓 Образование
-**ЮРГПУ (НПИ) им. Платова**
-- **Аспирантура**, Системный анализ — *2023 — 2025*
-- **Магистратура**, Программная инженерия — *2017 — 2019*
-- **Бакалавриат**, Программная инженерия — *2013 — 2017*
+### 🛠️ Tech Stack
+**Backend**  
+JavaScript · TypeScript · Node.js · Express · Fastify · Koa · NestJS  
+**Testing**  
+Jest · Supertest · Cypress  
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Redis · DynamoDB  
+**DevOps & Cloud**  
+Docker · Kubernetes · AWS · Yandex Cloud · Terraform · Prometheus · Grafana  
+**MQ & Data**  
+RabbitMQ · ELK · MinIO  
 
 ---
 
-## 🌐 Языки
-- **Русский** — родной
-- **Английский** — B2 (средний уровень, техническая документация и коммуникация)
+### 💼 Experience
+**Fortech** — *Head of Outsourced Development* (2022–2025)  
+**Exceed Team** — *Head of Development* (2018–2022)  
+- Led engineering teams, launched 6+ projects from scratch  
+- Built new tech tracks: Python, Java, QA, Mobile, PHP  
+- Managed client communication, timelines, and technical strategy  
+
+**Platov University** — *Lecturer* (2023–Present)  
+Teaching: Web & Mobile Development, Cybersecurity  
 
 ---
 
-## 💼 Опыт работы
-
-### **Fortech** — *Руководитель отдела аутсорс-разработки*  
-*2022 — 2025*
-
-### **Exceed Team** — *Руководитель отдела разработки*  
-*2018 — 2022*
-
----
-
-## 🎯 Ключевые навыки
-
-### **Backend**
-JavaScript, TypeScript, Node.js, Express, Fastify, Koa, NestJS  
-Тестирование: Jest, Supertest, Cypress 
-
-### **MQ & Data**: 
-RabbitMQ, ELK, MinIO
-
-### **Базы данных**
-PostgreSQL, MySQL, MongoDB, Redis, AWS DynamoDB
-
-### **DevOps & Cloud**
-- **Инструменты**: Docker, Kubernetes, Nginx, Terraform, Prometheus, Grafana
-- **Облака**: AWS (Lambda, S3, SQS, Cognito, CloudWatch, CodeArtifact), Yandex Cloud, GCP (концептуально)
-
-### **Soft Skills**
-- Управление командами и проектами
-- Менторство, наставничество junior-разработчиков
-- Взаимодействие с заказчиками, согласование сроков и бюджетов
-- Техническое лидерство и внедрение новых стеков
+### 🏆 Key Strengths
+🔹 Engineering Leadership & Team Management  
+🔹 Full-Cycle Project Delivery  
+🔹 Mentoring Junior Developers  
+🔹 Remote Team Coordination  
+🔹 Open to Part-Time, Consulting, Teaching  
 
 ---
 
-## 🏆 Достижения
-- ✅ Запустил **6+ проектов с нуля**
-- ✅ Внедрил новые технические направления в компании (PHP, Python, Java, QA, мобильная разработка)
+### 📬 Let’s Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@dmitrium.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrium)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ddmitriumm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://cv.dmitrium.com)
 
 ---
 
-## 📚 Преподавательская деятельность
-**ЮРГПУ (НПИ) им. Платова** — *Лектор*  
-*2023 — настоящее время*
-- Веб-программирование и мобильные приложения
-- Компьютерная безопасность и защита информации
-
----
-
-## 🛠️ Предпочитаемый формат работы
-- 🏠 Удалённая работа
-- 🕐 Гибкий график
-- ⏳ Возможна частичная занятость
-
----
-
-> Открыт к сотрудничеству в рамках проектов, консультаций и преподавательской деятельности.
+> 🌱 *Open to collaboration in tech leadership, development, and education.*
