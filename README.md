@@ -1,6 +1,6 @@
 # Dmitry Shesterikov 💼  
 **Engineering Manager | Team Lead | Fullstack & Backend Developer**  
-📚 Lecturer at Platov University | 🌍 Remote | 🕒 Flexible / Part-Time  
+📚 Lecturer at Platov South-Russian State Polytechnic University | 🌍 Remote | 🕒 Flexible 
 
 ---
 
@@ -33,7 +33,7 @@ RabbitMQ · ELK · MinIO
 - Built new tech tracks: Python, Java, QA, Mobile, PHP  
 - Managed client communication, timelines, and technical strategy  
 
-**Platov University** — *Lecturer* (2023–Present)  
+**Platov South-Russian State Polytechnic University** — *Lecturer* (2023–Present)  
 Teaching: Web & Mobile Development, Cybersecurity  
 
 ---
@@ -43,7 +43,12 @@ Teaching: Web & Mobile Development, Cybersecurity
 🔹 Full-Cycle Project Delivery  
 🔹 Mentoring Junior Developers  
 🔹 Remote Team Coordination  
-🔹 Open to Part-Time, Consulting, Teaching  
+🔹 Open to Consulting, Teaching  
+
+---
+
+### 🎓 Educational courses
+- [InfoSec](https://github.com/shesterikov/InfoSec)
 
 ---
 
