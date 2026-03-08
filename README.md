@@ -1,5 +1,5 @@
 # Dmitry Shesterikov 💼  
-** Fullstack & Backend Developer**  
+** Fullstack & Backend Developer **  
 📚 Lecturer at Platov South-Russian State Polytechnic University | 🌍 Remote 
 
 ---
